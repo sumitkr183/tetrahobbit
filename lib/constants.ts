@@ -63,3 +63,30 @@ export const SERVICE_FAQ = [
     icon: "/services/ar-vr.svg",
   },
 ];
+
+export const SOLUTIONS = [
+  { title: "App Development", link: "/" },
+  { title: "Web Development", link: "/" },
+  { title: "Digital Marketing", link: "/" },
+  { title: "SEO", link: "/" },
+  { title: "Graphic Design", link: "/" },
+  { title: "Custom Software", link: "/" },
+];
+
+export const SERVICES = [
+  { title: "Android App Development", link: "/" },
+  { title: "Wordpress Development", link: "/" },
+  { title: "Ios App Development", link: "/" },
+  { title: "Website Development", link: "/" },
+  { title: "E-commerce Development", link: "/" },
+  { title: "Shopify Development", link: "/" },
+  { title: "CRM Development", link: "/" },
+];
+
+export const COMPANY = [
+  { title: "About Us", link: "/" },
+  { title: "Contact Us", link: "/" },
+  { title: "Blog", link: "/" },
+  { title: "Privacy Policy", link: "/" },
+  { title: "Terms & Conditions", link: "/" },
+];

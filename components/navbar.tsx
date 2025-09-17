@@ -10,7 +10,7 @@ export const Navbar = () => {
   return (
     <nav className="py-3">
       <AppWrapper className="flex justify-between items-center gap-3">
-        <AppLogo />
+        <AppLogo variation="dark" />
         <Menus />
         <div className="flex gap-1 xl:gap-3">
           <Button variant="primary-gradient" className="rounded-full px-2">
